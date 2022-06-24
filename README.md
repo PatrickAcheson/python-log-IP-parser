@@ -7,4 +7,5 @@ In this project I created a simple python script that can parse .txt log files a
 ![image](https://user-images.githubusercontent.com/90014630/175531295-41a96220-5b03-49aa-9fca-5f93525c07e5.png)
 
 <h2>Example output</h2>
-![image](https://user-images.githubusercontent.com/90014630/175531693-313a37dd-b3c9-46f3-b82f-0becb9f88ab3.png)
+
+![Untitled](https://user-images.githubusercontent.com/90014630/175532205-f99175f1-ff24-4fee-bee2-251002a102c8.png)
